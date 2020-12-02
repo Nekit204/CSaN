@@ -1,0 +1,4 @@
+﻿  Ping.cpp
+C:\Users\User\Desktop\учеба\2 курс\КСИС\Ping\Ping\Ping.cpp(146,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\2 курс\КСИС\Ping\Ping\Ping.cpp(149,6): warning C4102: std: неиспользованная метка
+  Ping.vcxproj -> C:\Users\User\Desktop\учеба\2 курс\КСИС\Ping\Debug\Ping.exe
